@@ -1,1 +1,1 @@
-# DynaQ for "FrozenLake-v0"
+# DynaQ for openAI.gym "FrozenLake-v0"
