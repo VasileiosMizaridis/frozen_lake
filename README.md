@@ -1,2 +1,2 @@
-# Reinforcement Learning tutorial
-## using openAI.gym ("frozen_lake")
+# Reinforcement Learning
+## openAI.gym ("frozen_lake")
