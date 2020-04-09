@@ -1,1 +1,1 @@
-# Q_Learning implementation for openAI.gym "FrozenLake-v0"
+# Q_Learning for openAI.gym "FrozenLake-v0"
